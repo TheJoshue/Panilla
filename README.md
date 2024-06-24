@@ -3,7 +3,7 @@ Panilla (the name) is a combination of the word Packet and Vanilla (as in Vanill
 
 [Support the development of this plugin and purchase a precompiled .jar file on SpigotMC](https://www.spigotmc.org/resources/65694/) (or compile your own for free)
 
-
+.
 ## Overview
 Panilla is software to prevent abusive NBT and packets on Minecraft servers.
 
