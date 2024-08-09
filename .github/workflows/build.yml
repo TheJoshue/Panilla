@@ -24,5 +24,5 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: Plugin JAR
-          path: target/bukkit/Panilla.jar
+          path: target/bukkit/*.jar
           if-no-files-found: error
